@@ -94,18 +94,16 @@ Managing enterprise-level database systems and contributing to software infrastr
 </p>
 
 ---
-
 ## Connect
 
 **Official Website**
-https://aboutkrunal-ver.vercel.com
+[aboutkrunal-ver.vercel.com](https://aboutkrunal-ver.vercel.com)
 
 **AGIOAS**
-https://agioas.com
+[agioas.com](https://agioas.com)
 
-**Linkedin**
-https://www.linkedin.com/in/kunal-sundersia-8a7267339/
----
+**LinkedIn**
+[Krunal Sundersia](https://www.linkedin.com/in/kunal-sundersia-8a7267339/)
 
 ## Philosophy
 
