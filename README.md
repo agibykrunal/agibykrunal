@@ -14,46 +14,9 @@
 
 Founder & Chief Everything Officer at **AGIOAS**.
 
-I design and engineer strategic simulation systems that model business complexity, operational behavior, and second-order decision consequences.
+I engineer high-stakes multi-agent ecosystems designed to simulate business complexity, operational behavior, and strategic decision consequences.
 
-My focus is on building **multi-agent ecosystems**, **simulation-first intelligence systems**, and **spatial computing environments**—transforming artificial intelligence into operational infrastructure for strategic execution.
-
-At AGIOAS, I am engineering digital ecosystems where intelligence is embedded into systems, environments, and decision architecture.
-
----
-
-## Core Specialization
-
-◾ Strategic Simulation Systems
-◾ Autonomous Multi-Agent Architecture
-◾ Spatial Computing Infrastructure
-◾ Enterprise Systems Design
-◾ Decision Intelligence Engineering
-◾ Real-Time System Orchestration
-
----
-
-## Technical Stack
-
-### Artificial Intelligence & Logic
-
-`Multi-Agent Systems` • `LangGraph` • `Prompt Engineering` • `Agent Memory Architectures` • `Strategic Decision Systems` • `Second-Order Logic Frameworks`
-
-### Spatial Computing & Frontend Systems
-
-`Three.js` • `React Three Fiber` • `Blender` • `Mixamo` • `Spatial Interface Design` • `Glassmorphic UI Systems`
-
-### Backend Architecture
-
-`Python` • `Django` • `FastAPI` • `Django Channels` • `PostgreSQL` • `WebSocket Systems` • `API Infrastructure`
-
-### Infrastructure & DevOps
-
-`Redis` • `Daphne` • `Git` • `Linux` • `Production Deployment` • `Real-Time Server Architecture`
-
-### Systems Engineering
-
-`Data Structures & Algorithms` • `System Architecture` • `Distributed Systems` • `Database Engineering` • `Scalability Optimization`
+My work focuses on transforming artificial intelligence into operational infrastructure through simulation-first environments and second-order decision systems.
 
 ---
 
@@ -61,52 +24,84 @@ At AGIOAS, I am engineering digital ecosystems where intelligence is embedded in
 
 ### AGIOAS — Digital Headquarters
 
-Building a simulation-driven digital operational ecosystem designed for strategic business modeling and organizational intelligence.
+Building a simulation-driven operational intelligence platform for enterprise strategic modeling.
 
 ### Strategic Intelligence Systems
 
-Developing advanced decision systems including:
-
-* Shadow Customer Intelligence
-* VC Pitch Simulation Systems
-* Decision Ripple Modeling
-* Strategic Risk Engines
+Developing advanced decision engines including Shadow Customer Intelligence, VC Pitch Simulation, and Decision Ripple Modeling.
 
 ### Software Development & Database Intern — Parul University
 
-Managing enterprise-level database systems and contributing to software development workflows for academic administration infrastructure, system optimization, and real-time operational management.
+Managing enterprise-level database systems and contributing to software infrastructure for academic administration systems.
 
 ---
 
-## Professional Overview
+## Technical Stack
 
-**Role**
-AI Founder / Systems Engineer
+### Artificial Intelligence & Logic
 
-**Current Position**
-Software Development & Database Intern at Parul University
+<p>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Agent_Memory_Architectures-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Strategic_Decision_Systems-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Second--Order_Logic-0A0A0A?style=flat-square" />
+</p>
 
-**Specialization**
-Strategic Simulation & Autonomous Systems
+### Spatial Computing & Frontend Systems
 
-**Focus Area**
-Spatial Computing × Artificial Intelligence
+<p>
+<img src="https://img.shields.io/badge/Three.js-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/React_Three_Fiber-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Blender-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Mixamo-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Spatial_Interface_Design-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Glassmorphic_UI-0A0A0A?style=flat-square" />
+</p>
 
-**Mission**
-Building infrastructure for decision intelligence.
+### Backend Architecture
+
+<p>
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Django-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Django_Channels-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/WebSocket_Systems-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/API_Infrastructure-0A0A0A?style=flat-square" />
+</p>
+
+### Infrastructure & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Redis-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Daphne-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Linux-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Production_Deployment-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Real--Time_Server_Architecture-0A0A0A?style=flat-square" />
+</p>
+
+### Systems Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/System_Architecture-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Distributed_Systems-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Database_Engineering-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Scalability_Optimization-0A0A0A?style=flat-square" />
+</p>
 
 ---
 
 ## Connect
 
 **Official Website**
+https://aboutkrunal-ver.vercel.com
+
+**AGIOAS**
 https://agioas.com
-
-**GitHub**
-https://github.com/krunalsundersia
-
-**Project Repository**
-Project Webpage
 
 ---
 
@@ -114,7 +109,5 @@ Project Webpage
 
 > Intelligence is not defined by answers.
 > It is defined by the ability to model consequences.
-
----
 
 **Engineering intelligence systems for strategic execution.**
