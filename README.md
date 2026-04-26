@@ -103,6 +103,8 @@ https://aboutkrunal-ver.vercel.com
 **AGIOAS**
 https://agioas.com
 
+**Linkedin**
+https://www.linkedin.com/in/kunal-sundersia-8a7267339/
 ---
 
 ## Philosophy
