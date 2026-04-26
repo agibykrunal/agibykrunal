@@ -1,51 +1,65 @@
 # Krunal Sundersia
 
-### AI Founder · Systems Architect · Full-Stack Engineer
+### ⚡ AI Founder · Systems Architect · Full-Stack Engineer
 
-**Founder & Chief Everything Officer at AGIOAS**
-
-I design and engineer high-stakes, multi-agent ecosystems built to simulate real-world business complexity.
-
-My work centers on **strategic simulation**, **second-order reasoning**, and **autonomous system design**—moving beyond conventional conversational AI into synthetic operational environments where decisions create measurable downstream effects.
-
-At **AGIOAS**, I’m building the next generation of digital infrastructure: intelligent, spatial, and simulation-driven systems designed for enterprise decision-making.
+<p align="left">
+  <img src="https://img.shields.io/badge/Founder-AGIOAS-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Autonomous%20Systems-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Strategic%20Simulation-darkgreen?style=for-the-badge" />
+</p>
 
 ---
 
-## Core Focus
+## 🧠 Founder’s Note
 
-* Multi-agent strategic simulation systems
-* Autonomous business intelligence environments
-* Real-time decision modeling
-* 3D digital operational ecosystems
-* Enterprise-grade backend architecture
-* AI-powered system orchestration
+Founder & Chief Everything Officer at **AGIOAS**.
+
+I architect high-stakes, multi-agent ecosystems designed to simulate business complexity, strategic pressure, and second-order consequences.
+
+My work focuses on transforming artificial intelligence from **conversation-based systems** into **decision-based operational systems**—where every action generates measurable ripple effects across synthetic environments.
+
+Currently engineering the infrastructure layer for next-generation strategic simulation.
 
 ---
 
-## Technical Arsenal
+## 🎯 Core Domains
 
-### AI & Intelligence Systems
+⚙ **Strategic Simulation Systems**
+🧠 **Autonomous Multi-Agent Architectures**
+🌐 **3D Spatial Computing Environments**
+📡 **Real-Time Intelligence Systems**
+🏗 **Enterprise Infrastructure Design**
+🔄 **Decision Ripple Modeling**
+
+---
+
+## 🛠 Technical Arsenal
+
+### 🤖 AI & Logic Systems
 
 * Multi-Agent Systems
 * LangGraph
 * Prompt Engineering
-* Second-Order Logic Systems
-* Strategic Decision Trees
-* Agent Memory Architecture
-* Autonomous Workflow Systems
+* Second-Order Logic
+* Decision Trees
+* Agent Memory Systems
+* Autonomous Workflow Architecture
 
-### 3D Systems & Frontend Engineering
+---
+
+### 🌌 3D Systems & Spatial Frontend
 
 * Three.js
 * React Three Fiber
 * Blender
 * Mixamo
-* Spatial UI Architecture
-* Glassmorphic Interface Systems
-* Interactive Simulation Environments
+* Spatial UI Systems
+* Glassmorphic Interface Architecture
+* Interactive Simulation Design
 
-### Backend Engineering
+---
+
+### ⚡ Backend Engineering
 
 * Python
 * Django
@@ -53,78 +67,90 @@ At **AGIOAS**, I’m building the next generation of digital infrastructure: int
 * Django Channels (WebSockets)
 * PostgreSQL
 * API Architecture
-* Scalable Backend Systems
+* Real-Time Data Pipelines
 
-### DevOps & Infrastructure
+---
+
+### 🚀 Infrastructure & DevOps
 
 * Redis
 * Daphne
 * Git
 * Linux
 * Server Deployment
-* WebSocket Infrastructure
+* WebSocket Systems
 * Binance API Integrations
 
-### System Design & Problem Solving
+---
+
+### 📐 System Design & Architecture
 
 * Data Structures & Algorithms
-* System Architecture
+* Enterprise Database Systems
 * Distributed Systems
+* Scalability Engineering
 * Performance Optimization
-* Enterprise Database Design
+* System Architecture
 
 ---
 
-## Current Work
+## 🔬 Current Engineering Focus
 
-### AGIOAS — Digital Headquarters Simulation
+### 🏢 AGIOAS — Digital Headquarters
 
-Building a 3D simulation-driven operational ecosystem designed to model organizational complexity and strategic execution.
+Building a simulation-driven operational intelligence system where businesses can model execution, communication, and strategy in 3D.
 
-### Strategic AI Systems
+### 📊 Strategic AI Engines
 
-Developing real-time AI frameworks such as:
+Developing advanced intelligence frameworks:
 
 * Shadow Customer Intelligence
-* VC Pitch Simulation Engines
-* Decision Ripple Mapping
-* Strategic Risk Modeling
+* VC Pitch Simulation Engine
+* Decision Ripple Analysis
+* Strategic Risk Mapping
 
-### Enterprise Systems Architecture
+### 🏛 Enterprise Systems
 
-Engineering enterprise-scale academic administration systems with real-time communication layers and optimized data workflows.
-
----
-
-## Professional Snapshot
-
-**Role:** AI Founder / Systems Engineer
-**Specialization:** Strategic Simulation & Autonomous Systems
-**Education:** Parul University
-**Focus Area:** Spatial Computing × Artificial Intelligence
-**Mission:** Building infrastructure for decision intelligence
+Architecting academic administration systems with real-time communication infrastructure and enterprise database design.
 
 ---
 
-## Connect
+## 📍 Professional Snapshot
 
-**Website**
+🎯 **Role:** AI Founder / Systems Engineer
+🏗 **Specialization:** Strategic Simulation & Autonomous Systems
+🎓 **Education:** Parul University
+🌐 **Focus:** Spatial Computing × Artificial Intelligence
+📈 **Mission:** Building Decision Intelligence Infrastructure
+
+---
+
+## 🌍 Connect
+
+🔗 **Website**
 https://agioas.com
 
-**GitHub**
+💻 **GitHub**
 https://github.com/krunalsundersia
 
-**Project Repository**
+📂 **Project Repository**
 Project Webpage
 
 ---
 
-## Philosophy
+## 📊 GitHub Analytics
 
-> Intelligence is not the ability to answer.
-> Intelligence is the ability to simulate consequences.
+![Stats](https://github-readme-stats.vercel.app/api?username=krunalsundersia\&show_icons=true\&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=krunalsundersia\&hide_border=true)
 
 ---
 
-**Building systems where intelligence is operational, not conversational.**
+## ⚖ Philosophy
 
+> Intelligence is not measured by response generation.
+> It is measured by consequence simulation.
+
+---
+
+### ⚙ Building operational intelligence systems for the future of strategy.
