@@ -97,7 +97,7 @@ Managing enterprise-level database systems and contributing to software infrastr
 ## Connect
 
 **Official Website**
-[aboutkrunal-ver.vercel.com](https://aboutkrunal-ver.vercel.com)
+[aboutkrunal](https://infopage-blush.vercel.app/)
 
 **AGIOAS**
 [agioas.com](https://agioas.com)
